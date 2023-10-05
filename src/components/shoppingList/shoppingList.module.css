@@ -1,0 +1,32 @@
+.background {
+  background-color: transparent;
+}
+.background .control .control1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 30px;
+}
+.background .control .control1 .control2 {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-left: 35px;
+}
+.background .control .control1 .control2 h2 {
+  font-weight: bolder;
+  color: white;
+}
+.background .control .control1 .control3 {
+  margin-right: 17px;
+}
+.background .control .control1 .control3 svg {
+  color: rgb(255, 255, 255);
+}
+.background .control hr {
+  width: 406px;
+  height: 1px;
+  border: 1px solid #FFD700;
+  background: #FFD700;
+  margin-top: 5px;
+}/*# sourceMappingURL=shoppingList.module.css.map */

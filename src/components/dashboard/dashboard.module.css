@@ -1,0 +1,11 @@
+.background1 {
+  background-image: url("../../assets/images/background.png");
+  width: 420px;
+  height: 553px;
+  flex-shrink: 0;
+  margin-top: 35px;
+  border-radius: 30px;
+  margin-left: 100px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}/*# sourceMappingURL=dashboard.module.css.map */

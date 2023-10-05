@@ -1,0 +1,12 @@
+.background {
+  width: 30px;
+  height: 30px;
+  border-radius: 3px;
+  background: var(--Gold, #FFD700);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.background h2 {
+  font-weight: bolder;
+}/*# sourceMappingURL=dateitem.module.css.map */
